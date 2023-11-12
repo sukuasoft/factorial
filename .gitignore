@@ -1,0 +1,7 @@
+#Pastas
+node_modules
+dist
+
+
+#Ficheiros
+package-lock.json
